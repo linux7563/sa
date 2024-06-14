@@ -1,2 +1,1 @@
-#activez: _YES_
-print('hello')
+active: _YES_
